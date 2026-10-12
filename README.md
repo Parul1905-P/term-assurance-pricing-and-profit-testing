@@ -15,6 +15,13 @@ This project applies concepts from CM1 (Actuarial Mathematics) to life insurance
 - **Profit Testing:** Projects expected cash flows over the policy term to evaluate the profitability of the insurance product.
 - **Sensitivity Analysis:** Examines the impact of changes in key assumptions on premium estimates and projected profitability.
 
+## Files Included
+
+| File Name | Description |
+|---|---|
+| Term Assurance Pricing and Profit Testing Model.xlsx | Main Excel model containing assumptions, mortality data, EPV calculations, premium calculations, profit testing, and sensitivity analysis. |
+| README.md | Project documentation, including features, key assumptions, and skills demonstrated. |
+
 ## Sheets Included
 
 1. Assumptions
